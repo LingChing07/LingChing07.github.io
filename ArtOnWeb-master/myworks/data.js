@@ -1,0 +1,1 @@
+var myData={designer:{name:'凌晴',phone:'15218372519',tag:["#创意#热爱美好事物"],bg:'#1e2025'},gallery:[{src:"myworks/d90774f0c7afed52460f17e5f3f99e7e.jpg",w:1600,h:1200},{src:"myworks/ilustra-ap.png",w:800,h:600},{src:"myworks/tiger_mariawatson_herringhaggis_4x.jpg",w:1600,h:1200},]}
